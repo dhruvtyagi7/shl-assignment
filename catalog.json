@@ -1,0 +1,200 @@
+[
+  {
+    "name": "SHL Occupational Personality Questionnaire (OPQ)",
+    "url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+    "test_type": "Personality & Behavior",
+    "description": "The OPQ32 measures 32 personality characteristics relevant to workplace behavior, predicting job performance and team fit. It helps organizations understand how candidates prefer to work, relate to others, and manage feelings and emotions. Widely used for leadership development, talent selection, and team effectiveness across all job levels.",
+    "duration": "25 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Motivational Questionnaire (MQ)",
+    "url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/",
+    "test_type": "Personality & Behavior",
+    "description": "The MQ measures 18 dimensions of motivation that influence a person's enthusiasm and drive at work. It helps identify what conditions energize or de-motivate a candidate, making it valuable for role fit, career development, and retention decisions. Complements the OPQ for a fuller picture of workplace behavior.",
+    "duration": "25 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Verify Numerical Reasoning",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Ability & Aptitude",
+    "description": "Verify Numerical Reasoning tests the ability to understand, analyze and draw conclusions from numerical data such as statistics, financial reports and graphs. Delivered online and adaptive, it provides a reliable measure of a candidate's numerical reasoning ability in a workplace context. Suitable for graduate, professional and managerial level roles.",
+    "duration": "17 minutes",
+    "remote_testing": true,
+    "adaptive_support": true
+  },
+  {
+    "name": "SHL Verify Verbal Reasoning",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Ability & Aptitude",
+    "description": "Verify Verbal Reasoning assesses the ability to understand and draw conclusions from written information. Candidates read passages and evaluate whether statements are true, false, or indeterminate. Ideal for roles requiring strong communication, comprehension, and analytical thinking such as managers, graduates, and professionals.",
+    "duration": "17 minutes",
+    "remote_testing": true,
+    "adaptive_support": true
+  },
+  {
+    "name": "SHL Verify Inductive Reasoning",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Ability & Aptitude",
+    "description": "Verify Inductive Reasoning measures the ability to identify rules and patterns in abstract visual sequences, a key indicator of general intellectual ability and problem-solving capacity. Widely used for technical, IT, and graduate roles where the ability to learn quickly and handle complex information is critical.",
+    "duration": "24 minutes",
+    "remote_testing": true,
+    "adaptive_support": true
+  },
+  {
+    "name": "SHL Verify Deductive Reasoning",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Ability & Aptitude",
+    "description": "Verify Deductive Reasoning assesses logical reasoning ability through syllogisms and spatial reasoning tasks. It measures how well candidates can draw logical conclusions and think analytically — useful for roles in law, finance, consulting, and other fields requiring structured critical thinking.",
+    "duration": "20 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Verify Mechanical Comprehension",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Ability & Aptitude",
+    "description": "Verify Mechanical Comprehension tests understanding of basic mechanical principles including levers, pulleys, gears, and fluid dynamics. Best suited for technical, engineering, manufacturing, and trades roles where mechanical reasoning ability is a job requirement.",
+    "duration": "25 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Verify Checking",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Ability & Aptitude",
+    "description": "Verify Checking measures speed and accuracy in comparing data — names, codes, and numbers — across tables. Ideal for clerical, data entry, administrative, and customer service roles where attention to detail and speed of processing are critical job requirements.",
+    "duration": "7 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Situational Judgement Test (SJT)",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/situation-judgement-tests-sjt/",
+    "test_type": "Situational Judgment",
+    "description": "SHL Situational Judgement Tests present realistic workplace scenarios and ask candidates to choose the most (and least) effective responses. They measure behavioral tendencies and job-relevant competencies in context, and are especially effective for volume hiring, graduate programs, and customer-facing roles. Can be customized by job family.",
+    "duration": "30 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Global Skills Assessment (GSA)",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/global-skills-assessment-gsa/",
+    "test_type": "Competency & Behavior",
+    "description": "The Global Skills Assessment evaluates a broad set of professional competencies including problem solving, communication, collaboration, adaptability, and digital skills. It uses realistic work simulations and is designed for early-career hiring and upskilling decisions. Provides hiring managers with a skills-based view of candidate readiness.",
+    "duration": "30 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Realistic Job Previews (RJP)",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/realistic-job-and-culture-previews-rjp/",
+    "test_type": "Job Preview",
+    "description": "Realistic Job Previews give candidates an accurate picture of a role's day-to-day realities and organizational culture before they apply or accept an offer. They reduce early turnover by ensuring candidates self-select in or out based on accurate expectations. Often embedded in the early stages of the application process.",
+    "duration": "15 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Universal Competency Framework (UCF)",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/universal-competency-framework/",
+    "test_type": "Competency Framework",
+    "description": "SHL's Universal Competency Framework defines 20 competencies organized into 8 clusters covering the key behaviors required for effective performance across roles. It underpins many SHL assessments and provides a common language for talent decisions, role profiling, and development planning across an organization.",
+    "duration": "",
+    "remote_testing": false,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Coding Skills Assessment",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+    "test_type": "Technical Skills - Coding",
+    "description": "SHL Coding Simulations present real coding challenges across languages including Java, Python, JavaScript, SQL, C++, and more. They assess algorithmic thinking, code quality, and practical development skills in a realistic IDE environment. Ideal for screening software engineers, developers, and data scientists at any level.",
+    "duration": "30 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Technical Skills Assessment",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+    "test_type": "Technical Skills",
+    "description": "SHL Technical Skills Assessments cover a wide range of IT and technology domains including networking, cybersecurity, cloud computing, databases, and more. They provide objective measures of job-specific technical knowledge and are used for both screening and certification verification in tech hiring.",
+    "duration": "30 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Business Skills Assessment",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+    "test_type": "Skills & Simulations",
+    "description": "SHL Business Skills Assessments measure proficiency in core office productivity applications (Microsoft Office, Excel, Word, PowerPoint) and general business software skills. They provide objective scores for skills that are often self-reported, supporting hiring decisions for administrative, analyst, and professional roles.",
+    "duration": "20 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Call Center Simulation",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/",
+    "test_type": "Skills & Simulations",
+    "description": "The Call Center Simulation places candidates in a realistic contact center environment, handling customer interactions across multiple channels. It measures multi-tasking, customer service skills, attention to detail, and the ability to handle difficult situations — directly relevant to contact center and customer service roles.",
+    "duration": "20 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Language Proficiency Tests",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/",
+    "test_type": "Language Skills",
+    "description": "SHL Language Proficiency Tests evaluate reading, listening, and language comprehension skills across multiple languages. AI-powered and adaptive, they quickly and accurately assess a candidate's working proficiency level. Ideal for customer service, sales, and multinational roles where language skills are a job requirement.",
+    "duration": "15 minutes",
+    "remote_testing": true,
+    "adaptive_support": true
+  },
+  {
+    "name": "SVAR Spoken Language Assessment",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar/",
+    "test_type": "Language Skills",
+    "description": "SVAR is an AI-powered spoken language assessment that evaluates verbal communication, pronunciation, fluency, and comprehension at scale. Candidates record spoken responses to prompts and receive instant scores without human raters. Designed for high-volume hiring in customer-facing and communication-intensive roles.",
+    "duration": "15 minutes",
+    "remote_testing": true,
+    "adaptive_support": true
+  },
+  {
+    "name": "SHL 360 Feedback",
+    "url": "https://www.shl.com/products/360/",
+    "test_type": "360 Feedback",
+    "description": "SHL's 360 Feedback tool collects structured feedback from managers, peers, direct reports, and other stakeholders to create a comprehensive view of an individual's competencies and leadership behaviors. The mobile-optimized platform generates data visualizations to support development conversations and succession planning.",
+    "duration": "",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Assessment and Development Centers",
+    "url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+    "test_type": "Assessment & Development",
+    "description": "SHL's digital Assessment and Development Centers replicate the depth of in-person assessment center experiences online. They combine multiple assessment methods — exercises, simulations, interviews — to evaluate leadership potential and development needs. Used for senior hiring, promotion decisions, and high-potential identification.",
+    "duration": "Half day or full day",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Video Interviews",
+    "url": "https://www.shl.com/products/video-interviews/",
+    "test_type": "Video Interview",
+    "description": "SHL's on-demand video interview platform lets candidates record responses to structured questions at their own pace. Responses are scored using AI-powered behavioral analysis, reducing time-to-hire and enabling consistent, structured evaluation at scale. Often used in early-stage screening before live interviews.",
+    "duration": "20 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Job-Focused Assessments",
+    "url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+    "test_type": "Job Focused",
+    "description": "SHL Job-Focused Assessments are pre-configured batteries designed for specific occupational categories, combining cognitive, personality, and skills measures into a validated, job-relevant package. They cover a wide range of roles from administrative and customer service to professional and managerial positions, reducing the complexity of building assessment programs from scratch.",
+    "duration": "45 minutes",
+    "remote_testing": true,
+    "adaptive_support": false
+  }
+]

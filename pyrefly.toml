@@ -1,0 +1,7 @@
+# pyrefly.toml
+# Tells Pyrefly which Python interpreter to use when resolving imports.
+# This points at the interpreter where google-genai, playwright, and the
+# other project dependencies are actually installed, so Pyrefly can find
+# them without needing inline `# pyrefly: ignore` suppressions.
+
+python_interpreter = "C:/Users/Lenovo/AppData/Local/Python/pythoncore-3.14-64/python.exe"
