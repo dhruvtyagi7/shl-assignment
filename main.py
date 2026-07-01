@@ -57,7 +57,10 @@ class ChatResponse(BaseModel):
     recommendations: list[Recommendation]
     end_of_conversation: bool
 
-
+@app.get("/")
+def root():
+    return {"message": "API is running"}
+    
 @app.get("/health")
 def health():
     return {"status": "ok"}
