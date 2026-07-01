@@ -26,5 +26,5 @@ COPY . .
 EXPOSE 8000
 
 # Start the server
-# Using 1 worker for free-tier memory constraints; increase for production.
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]
+# Using 1 worker for free-tier memory constraints; increase for production.\
+CMD uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000} --workers 1
